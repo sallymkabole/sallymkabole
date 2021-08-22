@@ -7,6 +7,7 @@ When I'm not coding, I'm either watching a post-apocalyptic Scifi, trying out ne
 
 - 🔭 I’m currently working on design to code projects :point_down:
    * https://bakery-web.netlify.app/
+   * https://sally-stripe-ui-clone.netlify.app/
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Web development projects
 - 🤔 I’m looking for help with Infrastructure stuff
