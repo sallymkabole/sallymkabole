@@ -31,4 +31,4 @@ You’ll catch me:
 - 📧 [sllmusanga7@gmail.com](mailto:sllmusanga7@gmail.com)  
 - 🐦 [@sallythetechie](https://twitter.com/sallythetechie)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sally-musanga-55b354a5/)  
-- 🌍 Website [https://sallymkabole.github.io/]
+- 🌍 [Website](https://sallymkabole.github.io/)
