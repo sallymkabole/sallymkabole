@@ -1,22 +1,34 @@
-### Hello World 👋
+### 👋 Hey there, I’m Sally!
 
-My name is **Sally Musanga**.
-I'm a passionate problem solver that brings an engineering perspective and creative problem solving to create products and experiences people love to use.My speciality is in website development where I have intermediate experience using React & VueJs for frontend and Python for the backend.
+I'm a **software engineer turned data scientist** who believes tech should make life better — not just smarter.
 
-When I'm not coding, I'm either watching a post-apocalyptic Scifi, trying out new recipies from YouTube or exploring nature.
+🚀 I specialize in turning complex data into meaningful, human-centered solutions.  
+🎓 Recently graduated from **Carnegie Mellon University** (yay!), where I focused on **AI, NLP**, and all things **machine learning**.  
+💡 I’m passionate about **responsible AI**, especially in healthcare, ethics, and tech-for-good initiatives.
 
-- 🔭 I’m currently working on design to code projects :point_down:
-   * https://bakery-web.netlify.app/
-   * https://sally-stripe-ui-clone.netlify.app/
-   * https://recipee-website.netlify.app/
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on Web development projects
-- 🤔 I’m looking for help with Infrastructure stuff
-- ⚡ Fav quote: ...if all else fails...reboot
+If your project sits at the intersection of code, people, and impact — I’m in!
 
-### Get in Touch :point_down:
-* Email : sllmusanga7@gmail.com
-* Twitter : https://twitter.com/sallythetechie
-* Linkedin : https://www.linkedin.com/in/sally-musanga-55b354a5/
+---
 
+### 🧠 What I Know
+- 🐍 Python, SQL, JavaScript  
+- 📊 Data Analysis, Machine Learning, NLP  
+- 🌐 HTML/CSS, React, Flask  
+- ⚙️ Full-stack Dev, APIs, Dashboards
 
+---
+
+### 👩🏾‍💻 When I'm not coding...
+You’ll catch me:
+- Watching **post-apocalyptic sci-fi** (hello *The 100* fans 👋)
+- Cooking up YouTube recipes (not always successfully 🍜)
+- Wandering around in nature pretending I’m on a hiking show 🏞️
+
+---
+
+### 📬 Let’s connect!
+
+- 📧 [sllmusanga7@gmail.com](mailto:sllmusanga7@gmail.com)  
+- 🐦 [@sallythetechie](https://twitter.com/sallythetechie)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sally-musanga-55b354a5/)  
+- 🌍 Website [https://sallymkabole.github.io/]
