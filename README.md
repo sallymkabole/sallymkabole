@@ -1,9 +1,9 @@
 ### Hey there — I’m Sally, nice to E-meet you. I’m:
 
 
-- **A software engineer turned data scientist** who loves using data and AI to solve problems that actually matter.
+- **A Software engineer turned data scientist** who loves using data and AI to solve problems that actually matter.
 
-- 🎓 **CMU graduate** with a focus on **Applied Machine Learning and NLP**  
+- 🎓 **MSc. I.T - CMU graduate**
 
 - 💡 Interested in **exploring large language models (LLMs) for low-resource settings** ,**responsible AI**,and **tech-for-good**  
 
