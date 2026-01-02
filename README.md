@@ -5,7 +5,7 @@
 
 - 🎓 **CMU graduate** with a focus on **Applied Machine Learning and NLP**  
 
-- 💡 Passionate about **responsible AI**,**making AI more accessible for low-resource languages**,and **tech-for-good**  
+- 💡 Interested in **exploring large language models (LLMs) for low-resource settings** ,**responsible AI**,and **tech-for-good**  
 
 ---
 
